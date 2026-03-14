@@ -128,6 +128,6 @@ Main.java
 
 **Ariel Swissa**
 
-Computer Science / Software Engineering Student  
+Software and Computer Engineering Student 
 GitHub:  
 https://github.com/arielswissa95
