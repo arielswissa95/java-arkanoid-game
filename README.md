@@ -8,8 +8,7 @@ The game is inspired by the classic **Arkanoid / Breakout** arcade game where th
 
 # Gameplay
 
-*(GIF of the gameplay will be added here)*
-
+![Gameplay](gameplay.gif)
 ---
 
 # Features
